@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.para {
+    background-color: hsl(348, 85%, 69%);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second-div {
+    color: blue;
+    font-size: 36px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+#fourth-div {
+    background-color: rgb(102, 243, 99);
+    font-weight: bold;
+}
